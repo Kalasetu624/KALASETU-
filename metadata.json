@@ -1,0 +1,6 @@
+{
+  "name": "KalaSetu",
+  "description": "AI-Driven Market Linkage and Smart Cataloging Mobile Application for Marginalized Artisans with voice-to-catalog, background removal, dynamic pricing, and ONDC onboarding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">KalaSetu</string>
+    <string name="app_subtitle">AI Market Linkage for Artisans</string>
+    <string name="voice_guide_button">Voice Guide</string>
+    <string name="next_step_button">Next Step</string>
+    <string name="prev_step_button">Back</string>
+    <string name="step_1_title">1. Artisan Login</string>
+    <string name="step_2_title">2. Product Photo</string>
+    <string name="step_3_title">3. AI Studio Fix</string>
+    <string name="step_4_title">4. Voice Catalog</string>
+    <string name="step_5_title">5. Smart Price</string>
+    <string name="step_6_title">6. Market &amp; KYC</string>
+    <string name="step_7_title">7. 1-Tap ONDC</string>
+    <string name="step_8_title">8. Orders &amp; Stock</string>
+    <string name="login_welcome">Welcome, Karigar! (नमस्ते कारीगर)</string>
+    <string name="login_subtitle">Simple phone login. No paperwork needed to start.</string>
+    <string name="send_otp">Get OTP Code</string>
+    <string name="verify_otp">Verify &amp; Login</string>
+    <string name="take_photo_camera">Take Photo (Camera)</string>
+    <string name="upload_from_gallery">Upload from Gallery</string>
+    <string name="permission_dialog_title">Camera &amp; Gallery Permission</string>
+    <string name="order_done_label">Order Done</string>
+    <string name="mark_order_done">Mark Order Done</string>
+    <string name="security_warning_prototype">Security Warning: API keys are packaged in BuildConfig for this prototype. Do not share the APK publicly.</string>
+</resources>
